@@ -50,5 +50,5 @@ module FinalProject
       index: config.public_file_server.index_name,
       headers: config.public_file_server.headers || {}
     )
-  end
+    end
 end
